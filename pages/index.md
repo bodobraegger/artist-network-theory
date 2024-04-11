@@ -27,6 +27,6 @@ axelle stiefel <br>
 laura-issé tusevo <br>
 +41 (0)76 409 39 94
 
-~~[contact@networktheory.art](mailto:contact@networktheory.art)~~
+[contact@networktheory.art](mailto:contact@networktheory.art)
 
 </footer>
