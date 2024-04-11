@@ -1,24 +1,24 @@
 @font-face {
-    font-family: 'EKRoumald';
-    font-style: normal;
-    font-weight: 700;
-    src: url('src/assets/fonts/EKRoumald-Bold.ttf') format('truetype');
+  font-family: 'EKRoumald';
+  font-style: normal;
+  font-weight: 700;
+  src: url('/src/assets/fonts/EKRoumald-Bold.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'EKRoumald';
-    font-style: italic;
-    font-weight: 700;
-    src: url('src/assets/fonts/EKRoumald-BoldItalic.ttf') format('truetype');
+  font-family: 'EKRoumald';
+  font-style: italic;
+  font-weight: 700;
+  src: url('/src/assets/fonts/EKRoumald-BoldItalic.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'EKRoumald';
-    font-style: italic;
-    font-weight: 400;
-    src: url('src/assets/fonts/EKRoumald-Italic.ttf') format('truetype');
+  font-family: 'EKRoumald';
+  font-style: italic;
+  font-weight: 400;
+  src: url('/src/assets/fonts/EKRoumald-Italic.ttf') format('truetype');
 }
 @font-face {
-    font-family: 'EKRoumald';
-    font-style: normal;
-    font-weight: 400;
-    src: url('src/assets/fonts/EKRoumald-Roman.ttf') format('truetype');
+  font-family: 'EKRoumald';
+  font-style: normal;
+  font-weight: 400;
+  src: url('/src/assets/fonts/EKRoumald-Roman.ttf') format('truetype');
 }
