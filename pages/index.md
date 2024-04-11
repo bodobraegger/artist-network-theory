@@ -14,7 +14,7 @@ p {font-size: 24px; }
 
 coming soon.
 
-<img :src=Logo class="w-300px! ml-auto! mt-30vh!"/>
+<img :src=Logo class="max-w-300px ml-auto mt-30vh prose"/>
 
 <div class="absolute bottom-5">
 
