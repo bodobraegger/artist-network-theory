@@ -38,6 +38,7 @@
     "eslint": "8.52.0",
     "eslint-plugin-format": "^0.1.0",
     "esno": "^4.7.0",
+    "esrun": "^3.2.26",
     "fast-glob": "^3.3.2",
     "feed": "^4.2.2",
     "fs-extra": "^11.2.0",

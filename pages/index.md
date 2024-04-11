@@ -1,8 +1,9 @@
 ---
 title: artist network theory
-description: artist network theory - coming soon.
+description: contact@networktheory.art - coming soon.
 display: false
 ---
+
 <!-- @layout-full-width -->
 <script setup>
 import Logo from '/src/assets/Artist_Network_Theory_Web.svg'
@@ -20,9 +21,9 @@ coming soon.
 axelle stiefel <br>
 +41 (0)79 680 88 23
 
-
 laura-issé tusevo <br>
 +41 (0)76 409 39 94
 
 [contact@networktheory.art](mailto:contact@networktheory.art)
+
 </div>
